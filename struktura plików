@@ -1,0 +1,6 @@
+📂 MTP-Project
+ ┣ 📜 index.html         (główna strona)
+ ┣ 📂 css
+ ┃ ┗ 📜 styles.css      (stylizacja strony)
+ ┗ 📂 assets
+    ┗ 📂 images         (logo, favicon)
